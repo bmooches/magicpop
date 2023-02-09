@@ -1,3 +1,3 @@
-Created by Rahul Jain (John), based on Void theme, but many changes for a completely fresh look.
-
+Created by Rahul Jain (John), inspired by Divo theme, but many changes for a completely fresh look.
+Divo https://github.com/linuxmint/cinnamon-spices-themes/tree/master/Divo
  initial testing release
